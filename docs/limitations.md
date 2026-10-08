@@ -1,0 +1,3 @@
+# Limitaciones
+
+Los datos y resultados son DEMO. No atribuyen causalidad ni evalúan laboralmente a Game Masters. Los Ángeles usa la tarifa confirmada de 20 € por sesión GM, independiente de la nómina contable DEMO. Los dobles DEMO son inferidos; producción debe preferir confirmación de reservas. NLP, forecast, demanda y score requieren validación real. El chat local cubre herramientas prioritarias; la comprensión abierta depende de proveedor configurado. Faltan autenticación/autorización completa, migraciones versionadas, objetivos históricos, procedencia granular, conectores reales de precios/slots e E2E automatizado.

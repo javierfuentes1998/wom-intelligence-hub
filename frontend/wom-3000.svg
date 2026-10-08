@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 126" role="img" aria-labelledby="title desc">
+  <title id="title">WOM 3000</title><desc id="desc">Robot metálico rectangular con dos ojos rojos en forma de corazón</desc>
+  <defs><linearGradient id="metal" x1="0" x2="1"><stop stop-color="#7e8589"/><stop offset=".48" stop-color="#d7dcde"/><stop offset="1" stop-color="#686f74"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <path d="M48 12V4M41 4h14" fill="none" stroke="#aeb5b8" stroke-width="4" stroke-linecap="round"/>
+  <rect x="15" y="13" width="66" height="91" rx="13" fill="url(#metal)" stroke="#3d4347" stroke-width="3"/>
+  <rect x="22" y="22" width="52" height="34" rx="8" fill="#22272a" stroke="#596166" stroke-width="2"/>
+  <g fill="#ef3645" filter="url(#glow)"><path d="M28 35c0-5 7-6 9-1 3-5 10-4 10 1 0 6-10 12-10 12S28 41 28 35z"/><path d="M50 35c0-5 7-6 9-1 3-5 10-4 10 1 0 6-10 12-10 12S50 41 50 35z"/></g>
+  <rect x="25" y="65" width="46" height="24" rx="5" fill="#596166" stroke="#353a3e" stroke-width="2"/>
+  <path d="M32 73h32M32 81h21" stroke="#b8c0c3" stroke-width="3" stroke-linecap="round"/><circle cx="64" cy="81" r="3" fill="#9fc65a"/>
+  <path d="M15 48 7 57v24M81 48l8 9v24" fill="none" stroke="#666d71" stroke-width="7" stroke-linecap="round"/><path d="M30 104v14M66 104v14" stroke="#555c60" stroke-width="9" stroke-linecap="round"/>
+  <text x="48" y="98" text-anchor="middle" fill="#262b2e" font-family="Arial,sans-serif" font-size="8" font-weight="700">WOM 3000</text>
+</svg>

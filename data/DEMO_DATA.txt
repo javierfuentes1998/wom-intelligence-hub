@@ -1,0 +1,1 @@
+DEMO V3, semilla 20260929. Sedes/salas conocidas; patrones, horarios, sesiones, GM, importes, alertas y reseñas son sintéticos. Escenarios heterogéneos reproducibles. No mezclar con datos reales.

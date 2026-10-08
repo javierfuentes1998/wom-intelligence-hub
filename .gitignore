@@ -1,0 +1,17 @@
+.env
+.venv*/
+.venv-py314-failed/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest_tmp/
+.pytest_tmp*/
+.coverage
+htmlcov/
+data/*.db
+data/raw/*.csv
+data/processed/*.csv
+data/gold/*.csv
+logs/*.log
+models/*.joblib
+frontend/node_modules/
